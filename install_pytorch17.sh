@@ -95,4 +95,9 @@ pip install timm
 echo ""
 echo ""
 
+echo "****************** Installing yacs ******************"
+pip install yacs
+
+echo ""
+echo ""
 echo "****************** Installation complete! ******************"
