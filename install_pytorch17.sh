@@ -1,5 +1,5 @@
 echo "****************** Installing pytorch ******************"
-conda install -y pytorch==1.7.0 torchvision==0.8.1 cudatoolkit=10.2 -c pytorch
+# conda install -y pytorch==1.7.0 torchvision==0.8.1 cudatoolkit=10.2 -c pytorch
 
 echo ""
 echo ""
@@ -29,7 +29,7 @@ pip install pandas
 echo ""
 echo ""
 echo "****************** Installing tqdm ******************"
-conda install -y tqdm
+pip install -y tqdm
 
 echo ""
 echo ""
