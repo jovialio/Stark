@@ -90,7 +90,7 @@ pip install onnx onnxruntime-gpu==1.6.0
 echo ""
 echo ""
 echo "****************** Installing timm ******************"
-pip install timm==0.3.2
+pip install timm
 
 echo ""
 echo ""
