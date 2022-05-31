@@ -100,4 +100,9 @@ pip install yacs
 
 echo ""
 echo ""
+echo "****************** Installing got10k ******************"
+pip install got10k
+
+echo ""
+echo ""
 echo "****************** Installation complete! ******************"
